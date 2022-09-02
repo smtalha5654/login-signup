@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217189122692",
+    "project_id": "first-email-pass-auth",
+    "storage_bucket": "first-email-pass-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217189122692:android:5b9b12ba9f0e8a2cb0b8d1",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217189122692-l5thhg0n18p48apdq7v25qgji9e3gju1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_page",
+            "certificate_hash": "2a305122df143e3842424141533e306de30ca3e2"
+          }
+        },
+        {
+          "client_id": "217189122692-oenei5gq8un4gh7nga7anuskgm5k6mdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wIeounq4GReWxN1xroc6-D2f-myB15k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217189122692-oenei5gq8un4gh7nga7anuskgm5k6mdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
